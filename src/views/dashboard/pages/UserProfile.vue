@@ -222,9 +222,9 @@
     data () {
       return {
         sideCard: [
-          { avatar: 'avatar-4.png', title: 'Headline 6', content: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.' },
-          { avatar: 'avatar-4.png', title: 'Headline 7', content: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.' },
-          { avatar: 'avatar-4.png', title: 'Headline 8', content: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.' },
+          { avatar: 'avatar-4.PNG', title: 'Headline 6', content: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.' },
+          { avatar: 'avatar-4.PNG', title: 'Headline 7', content: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.' },
+          { avatar: 'avatar-4.PNG', title: 'Headline 8', content: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.' },
         ],
       }
     },
